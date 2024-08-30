@@ -1,0 +1,14 @@
+# compiled output
+dist/*
+
+#node packages
+node_modules/*
+
+#confidential info
+bin/
+
+#logs
+logs/
+
+
+package-lock.json
